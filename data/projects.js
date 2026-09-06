@@ -425,8 +425,7 @@ const PROJECT_MODAL_DATA = {
             }
         ],
         links: [
-            { label: "Frontend Live ↗", url: "https://dailydrop-alpha.vercel.app/", isPrimary: true },
-            { label: "Full Stack (Render) ↗", url: "https://daily-drop-c96q-f5su.onrender.com/", isPrimary: false },
+            { label: "Live Demo ↗", url: "https://daily-drop-c96q-f5su.onrender.com/", isPrimary: true },
             { label: "GitHub Repository", url: "https://github.com/Spidey173/Daily-Drop", isPrimary: false }
         ]
     }
